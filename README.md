@@ -10,8 +10,11 @@
 ---
 
 <div align="center" style="margin-top: 2em; margin-bottom: 4em;">
-    <p style="font-size: 2em;margin-bottom: 1em;">Linguagens Que Sei :)</p>
-    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+    <p style="font-size: 2em;margin-bottom: 1em;">
+    
+### Linguagens Que Sei :)</p>
+
+<img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
     <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -23,7 +26,9 @@
 
 ---
 <div align="center" style="font-size: 2em;">
-    <p style="margin-top: 1em; margin-bottom: 1em;">Visitas Aqui</p>
+    <p style="margin-top: 1em; margin-bottom: 1em;">
+    
+### Visitas Aqui</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/lucacc0mb/count.svg)
 </div>
